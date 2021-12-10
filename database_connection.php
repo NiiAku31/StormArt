@@ -1,6 +1,6 @@
 <?php
 
-	$conn = mysqli_connect('localhost','root','','StormArt');
+	$conn = mysqli_connect('localhost','root','Niikwakuaku@31','StormArt');
 
 	if ($conn == false)
 	{
