@@ -1,0 +1,26 @@
+div#description1 p{
+    text-align: justify;
+}
+
+div#description2 p{
+    text-align: justify;
+}
+
+div#description3 p{
+    text-align: justify;
+}
+
+body {
+    background-color: black;
+    color: white;
+  }
+
+  a:link, a:visited {
+    background-color:transparent;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+      }
+  

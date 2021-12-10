@@ -1,0 +1,22 @@
+.card-registration .select-input.form-control{
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+  }
+  .card-registration .select-arrow {
+    top: 13px;
+  }
+
+  a:link, a:visited {
+    background-color: transparent;
+    color: grey;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+      }
+  
+  a:hover, a:active {
+    background-color: transparent;
+      }
